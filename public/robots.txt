@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin*
+Disallow: /api*
+Disallow: /banks
+Disallow: /beneficiaries*
+Disallow: /beneficiaries
+Disallow: /transactions*
+Disallow: /transactions
+Disallow: /verification
+Allow: /

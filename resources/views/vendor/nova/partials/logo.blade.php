@@ -1,0 +1,1 @@
+<img src="/images/logo-grey.svg" alt="logo">

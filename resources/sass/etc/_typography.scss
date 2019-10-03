@@ -1,0 +1,14 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: $blue-secondary;
+}
+
+p,
+span {
+    color: $blue-light;
+    line-height: 2;
+    letter-spacing: 0.01rem;
+}

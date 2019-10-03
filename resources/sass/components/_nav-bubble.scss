@@ -1,0 +1,17 @@
+.nav-bubble {
+    background: $white;
+    border-radius: $border-radius;
+    padding: 30px 15px;
+    color: $blue-light;
+    box-shadow: 0 25px 50px -10px $shadow-primary;
+    position: relative;
+
+    &::after {
+        content: " ";
+        position: absolute;
+        top: -20px;
+        left: 30px;
+        border: solid 10px transparent;
+        border-bottom: solid 10px $white;
+    }
+}
